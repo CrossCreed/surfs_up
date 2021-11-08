@@ -17,8 +17,8 @@ There are 1,517 observations for the month of December, years 2010 - 2017.
 * From the min, max & mean temperatures, we can infer that June has less variability in temperature fluctuation than December does. Apart from the minimum temperature which drops to 56 F in December, all other values spread across the 2 months are relatively similar.
 * Low standard deviation for both months implies a tight set of data, which tells us that in both mohts, Oahu weather does not fluctuate significantly.
 
+![image](https://user-images.githubusercontent.com/89520192/140669905-cc9ec866-d917-4ed0-be74-2b1fade7ca48.png) ![image](https://user-images.githubusercontent.com/89520192/140669981-afce3696-4389-4bc6-ad86-81ecc76ad3ec.png)
  
-
 ### Surfs Up Summary
 
 The months of June and December both hold relatively favorable temperatures for surfing conditions and a steady demand of ice cream. The average temperature for both months only differs by 4 degrees (December lower with 71 F),
